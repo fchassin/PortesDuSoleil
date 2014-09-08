@@ -1,0 +1,9 @@
+body { /* Modifications : la couleur de fond de page - la police - l'unité utilisée pour la taille de la police  */
+  background-color :#412321;
+  font-family :Serif;
+  font-size :15pt;
+}
+
+#bloc { /* Les éléments qui ne seront pas affichés  */
+  display :none;
+}
